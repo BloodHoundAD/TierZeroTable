@@ -64,4 +64,4 @@ Values:
 - NO
 
 ### External links
-Links to documentation for the asset, abuse information, etc.
+Links to documentation for the asset, abuse information, etc. 
